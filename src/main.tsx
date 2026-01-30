@@ -4,8 +4,10 @@ import './index.css'
 import Navbar from './assets/conponents/Navbar'
 
 
+
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
     <Navbar/>
+    
   </StrictMode>,
 )
