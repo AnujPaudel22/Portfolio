@@ -15,12 +15,12 @@ export const Navlinks=[
         link:"/#skill",
     },
     {
-        id:2,
+        id:4,
         name:"Projects",
         link:"/#project",
     },
     {
-        id:2,
+        id:5,
         name:"Contacts",
         link:"/#contact",
     },
